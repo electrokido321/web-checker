@@ -12,4 +12,4 @@
 
 - Want to support this project? Give it a ⭐!
 
-- 
+- Just add the URLS normally
