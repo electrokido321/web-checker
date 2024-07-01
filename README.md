@@ -15,3 +15,6 @@
 - Just add the URLS normally.
 
 - An file named ON.txt will be created if more or one website online is.
+
+
+## How to use
