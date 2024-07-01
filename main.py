@@ -24,11 +24,11 @@ def main():
         results.append(result)
     
     # Write results to a file
-    with open('website_status.txt', 'w') as file:
+    with open('ON.txt', 'w') as file:
         for result in results:
             file.write(result + '\n')
 
-    print("Website status check completed. Results saved to 'website_status.txt'.")
+    print("Website status check completed. Results saved to 'ON.txt'.")
 
 if __name__ == "__main__":
     main()
